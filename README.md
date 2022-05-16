@@ -1,4 +1,7 @@
-### Hi i'm Victor Ui,Ux Design and Front-End! 👋
+### Oi, eu Sou Victor Ui,Ux Design! ✨
+💻 Estudante de Front-End!
+📖 Mobile Developer!
+
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyper_versus/)
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.4k2k.com.br/)
